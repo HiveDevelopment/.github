@@ -6,8 +6,6 @@
   />
 </p>
 
-<br/>
-
 We're **Hive Software**, an independent software development company creating modern tools for server management, infrastructure monitoring, and IT administration.
 
 Our projects range from game server management panels and mobile applications to infrastructure monitoring and enterprise management solutions.
@@ -15,8 +13,6 @@ Our projects range from game server management panels and mobile applications to
 We build both open-source and commercial software, with a shared focus on reliability, functionality, and making complicated systems easier to manage.
 
 What started as a passion for building better software is growing into an ecosystem of products designed to make technology more accessible, manageable, and enjoyable to use.
-
-<br/>
 
 ### Our Products
 
@@ -73,8 +69,6 @@ What started as a passion for building better software is growing into an ecosys
     </tr>
 </table>
 
-<br/>
-
 ### Our Philosophy
 
 We believe powerful software shouldn't have to be complicated.
@@ -87,8 +81,6 @@ Whether we're building a mobile application, a server management platform, or an
 - **Innovation** - Exploring better ways to solve existing problems.
 - **User Experience** - Putting usability and thoughtful design at the centre of everything we build.
 
-<br/>
-
 ### Open Source & Commercial Software
 
 Our ecosystem includes both **open-source and proprietary software**.
@@ -98,8 +90,6 @@ We believe different projects benefit from different development and licensing a
 Regardless of the licensing model, our commitment remains the same: building useful, well-designed, and reliable software.
 
 We welcome bug reports, feedback, and feature suggestions through the appropriate channels for each project.
-
-<br/>
 
 ### Sponsors & Partners
 
@@ -128,8 +118,6 @@ Sponsor and partner entries added here
 </table>
 -->
 
-<br/>
-
 ### Get Involved
 
 Interested in what we're building?
@@ -139,8 +127,6 @@ Explore our public repositories, follow development, report issues, or share you
 Not every project is open source, but feedback and community involvement remain an important part of how we improve our products.
 
 For project-specific information, documentation, and support, please visit the relevant product website or repository.
-
-<br/>
 
 ### Find Us
 
